@@ -1,0 +1,9 @@
+{
+    "path" : "~/GitHub/fun-things/ibov-heatmap-calendar",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
